@@ -14,6 +14,7 @@
 2 The specifications of critical codes
 2.1 Packages
 gensim==3.7.1
+
 jieba==0.39
 numpy==1.16.2
 pandas==0.23.4
