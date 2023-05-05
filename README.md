@@ -1,0 +1,1 @@
+# SMD-based-DCTAs-oriented-public-attitudes-assessment-approach
