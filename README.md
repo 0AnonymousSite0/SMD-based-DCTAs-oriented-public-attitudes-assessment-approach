@@ -61,4 +61,4 @@ Replace data in 'keras_textclassification/data/multi_category' (or 'keras_textcl
 
 2.5 Adjust hyperparameters
 
-Please adjust the hyperparameters according to Table S4.
+Please adjust the hyperparameters according to Table S3.
